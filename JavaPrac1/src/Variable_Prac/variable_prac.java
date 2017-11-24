@@ -2,6 +2,9 @@ package Variable_Prac;
 
 public class variable_prac {
 	public static void main(String[] args) {
+		final boolean STUDY_HARD = true;
+		final int EARTH_RADIUS_KM = 6400;
+		
 		boolean bool;		//1byte
 		char character;		//2byte
 		byte byteType;		//1byte
@@ -23,5 +26,7 @@ public class variable_prac {
 		System.out.println("bool : "+bool+"\ncharacter : "+character+"\nbyte : "+byteType);
 		System.out.println("shortInt : "+shortInt+"\nintegerNumber : "+integerNumber+"\nlongInt : "+longInt);
 		System.out.println("floatNumber : "+floatNumber+"\ndoubleNumber : "+doubleNumber);
+		
+		System.out.println("Earth radius in Km : "+ EARTH_RADIUS_KM+"KM");
 	}
 }
