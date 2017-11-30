@@ -2,8 +2,8 @@ package Variable_Prac;
 
 public class variable_prac {
 	public static void main(String[] args) {
-		final boolean STUDY_HARD = true;
-		final int EARTH_RADIUS_KM = 6400;
+		final boolean STUDY_HARD = true;	//상수 변경 불가
+		final int EARTH_RADIUS_KM = 6400;	//상수 변경 불가
 		
 		boolean bool;		//1byte
 		char character;		//2byte
