@@ -9,7 +9,7 @@ public class if_prac {
 		boolean bool 		= true;		//1byte
 		char character 		= 'A';		//2byte
 		byte byteType		= 127;		//1byte
-		int integerNumber 	= 10;	//4byte
+		int integerNumber 	= 10;		//4byte
 		float floatNumber 	= 10.01f;	//4byte
 		
 		

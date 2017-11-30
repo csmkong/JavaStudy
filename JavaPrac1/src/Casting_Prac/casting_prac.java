@@ -17,7 +17,7 @@ public class casting_prac {
 		double doubleNumber;//8byte
 		
 		bool = true;				//true or false
-		character = 'A';			//0 ~ (2^16)-1
+		character = 'B';			//0 ~ (2^16)-1
 		byteType = 127;				//-128 ~ 127
 		shortInt = 32767;			//-(2^15) ~ (2^15)-1
 		integerNumber = 2147483647;	//-(2^31) ~ (2^31)-1
